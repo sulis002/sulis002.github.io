@@ -1,3 +1,4 @@
+<img src="/assets/IMG_7383.png" alt="IMG_7383" width="120" style="border-radius: 50%;">
 
 # Natasha Christina Sulistyo
 
