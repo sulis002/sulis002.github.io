@@ -32,5 +32,5 @@ To obtain a challenging analyst role where I can contribute to impactful project
 ### **Bachelor of Business Administration (B.B.A) in International Business**
 *Seattle University | 2015 - 2017* 
 
-## **Associate of Arts in Business**
+### **Associate of Arts in Business**
 *North Seattle College | 2013 - 2015* 
