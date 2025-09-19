@@ -1,6 +1,9 @@
 title: Minimal theme
-logo: /assets/IMG_7383.JPG
+logo: /assets/img_7383.jpg
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+git commit -m "update logo to img_7383.jpg"
+git push origin main
