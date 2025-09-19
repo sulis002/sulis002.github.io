@@ -34,6 +34,3 @@ To obtain a challenging analyst role where I can contribute to impactful project
 
 ## **Associate of Arts in Business**
 *North Seattle College | 2013 - 2015* 
-
-
-update index.md
