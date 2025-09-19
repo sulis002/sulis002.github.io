@@ -20,7 +20,7 @@ To obtain a challenging analyst role where I can contribute to impactful project
 - Gave cash management solutions to clients for better cashflow through our corporate online services (payables managemnet, receivebale management, information management, account services and liquidity management).
 - Initiated and liaised to create tailored cash management product.
 
-### *Procurement and Account Management** - *Onboard XP, LLC*
+### **Procurement and Account Management** - *Onboard XP, LLC*
 *November 2018 - July 2021* 
 
 - Analyzed sourcing, logistics, and transportation cost structures to initiate up-to-date supply chain strategies in various regions, negotiate the price with customers and suppliers based on the change of the required date, freight cost and warehouse locations.
