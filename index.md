@@ -1,123 +1,37 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Natasha Christina Sulistyo
 
-[Link to another page](./another-page.html).
+*Aspiring Analyst | Passionate Problem Solver | Lifelong Learner* 
 
-There should be whitespace between paragraphs.
+Welcome to my e-portfolio! Experienced professional in Procurement and Account Management with a demonstrated history of working in the airlines/aviation industry. Skilled in Microsoft Office Suite, Management, and QuickBooks. Strong administrative professional with a Bachelor of Business Administration (B.B.A) in International Business from Seattle University. In addition, bring over 3 years of experience in banking as a Trade Finance Sales professional, specializing handling corporate clients and delivering tailored financial solutions.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 📌 Objective
 
-# Header 1
+To obtain a challenging analyst role where I can contribute to impactful projects, learn from experienced professionals, and continue improving my data analysis and problem-solving skills.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 💼 Work Experience
 
-## Header 2
+### **Transaction Banking Corporate Sales** - *PermataBank Jakarta (part of Bangkok Bank Group)*
+*July 2021 - July 2025*
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Procatively managed trade relationships within the porfolio of existing as wekk as new clients in order to develop suitable trade structures based on agreement.
+- Reviewed Letter of Credit, Bank Guarantee, Standby Letter of Credit, Demand Guarantee, etc.
+- Offered and advised clients regarding non-cash loan (pre-shipment and post-shipment financing) and trade finance products.
+- Gave cash management solutions to clients for better cashflow through our corporate online services (payables managemnet, receivebale management, information management, account services and liquidity management).
+- Initiated and liaised to create tailored cash management product.
 
-### Header 3
+### *Procurement and Account Management** - *Onboard XP, LLC*
+*November 2018 - July 2021* 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- Analyzed sourcing, logistics, and transportation cost structures to initiate up-to-date supply chain strategies in various regions, negotiate the price with customers and suppliers based on the change of the required date, freight cost and warehouse locations.
+- Monitored and maintained safe inventory level and sales history for more accurate stock plan and ensure thata daily transactions of products can work smoothly.
+- Participated in internal product development to identify new product demands, schedules, and procurement needs; forecasts requirements and orders products to meet sales demands.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 🎓 Education 
 
-#### Header 4
+### **Bachelor of Business Administration (B.B.A) in International Business**
+*Seattle University | 2015 - 2017* 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## **Associate of Arts in Business**
+*North Seattle College | 2013 - 2015* 
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
