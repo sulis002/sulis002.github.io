@@ -1,7 +1,6 @@
 
 # Natasha Christina Sulistyo
-
-*Aspiring Analyst | Passionate Problem Solver | Lifelong Learner* 
+*Aspiring Analyst | Passionate Problem Solver | Lifelong Learner*
 
 Welcome to my e-portfolio! Experienced professional in Procurement and Account Management with a demonstrated history of working in the airlines/aviation industry. Skilled in Microsoft Office Suite, Management, and QuickBooks. Strong administrative professional with a Bachelor of Business Administration (B.B.A) in International Business from Seattle University. In addition, bring over 3 years of experience in banking as a Trade Finance Sales professional, specializing handling corporate clients and delivering tailored financial solutions.
 
