@@ -10,7 +10,7 @@ This guide explains the steps I followed to create my e-portfolio using GitHub P
 4. Clone my repository to cloud drive
 
 ## Step 2 - Enable GitHub pages
-1. 1. Went to **Settings → Pages**.
+1. Went to **Settings → Pages**.
 2. Selected the **main branch** and / '(root)' folder.
 3. Saved settings — GitHub automatically generated my website URL:  
    'https://sulis002.github.io'
