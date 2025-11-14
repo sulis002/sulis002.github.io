@@ -37,4 +37,4 @@ To obtain a challenging analyst role where I can contribute to impactful project
 
 ## Projects
 [How I Created My E-Portfolio (https://sulis002.github.io/subpage_1/)]
-[OM 620 Assignments Showcase](/projects/om620-assignments/)
+[OM 620 Assignments Showcase](https://sulis002.github.io/projects/om620-assignments/)
