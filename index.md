@@ -12,7 +12,7 @@ To obtain a challenging analyst role where I can contribute to impactful project
 ### **Transaction Banking Corporate Sales** - *PermataBank Jakarta (part of Bangkok Bank Group)*
 *July 2021 - July 2025*
 
-- Procatively managed trade relationships within the porfolio of existing as wekk as new clients in order to develop suitable trade structures based on agreement.
+- Procatively managed trade relationships within the porfolio of existing as well as new clients in order to develop suitable trade structures based on agreement.
 - Reviewed Letter of Credit, Bank Guarantee, Standby Letter of Credit, Demand Guarantee, etc.
 - Offered and advised clients regarding non-cash loan (pre-shipment and post-shipment financing) and trade finance products.
 - Gave cash management solutions to clients for better cashflow through our corporate online services (payables managemnet, receivebale management, information management, account services and liquidity management).
@@ -39,3 +39,7 @@ To obtain a challenging analyst role where I can contribute to impactful project
 [How I Created My E-Portfolio] (https://sulis002.github.io/subpage_1/)
 
 [OM 620 Assignments Showcase](https://sulis002.github.io/projects/om620-assignments/)
+
+OM 621 — Analytics Portfolio  
+A full analytical project exploring transportation delays, invoice patterns, and cost-forecasting foundations using Python and Power BI. Includes exploratory data analysis, storyboard development, and predictive insights tailored for Qualcomm’s supply-chain operations.
+**[View OM 621 Project →](om621-analytics)**  
