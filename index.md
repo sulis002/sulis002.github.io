@@ -46,3 +46,5 @@ To obtain a challenging analyst role where I can contribute to impactful project
 OM 621 — Analytics Portfolio  
 A full analytical project exploring transportation delays, invoice patterns, and cost-forecasting foundations using Python and Power BI. Includes exploratory data analysis, storyboard development, and predictive insights tailored for Qualcomm’s supply-chain operations.
 **[View OM 621 Project →](om621-analytics)**  
+
+[Analysis on Alcohol Fatalities PowerBI Dashboard](https://app.powerbi.com/links/_VvywKBic-?ctid=128753ab-cb28-4f82-9733-2b9b91d2aca9&pbi_source=linkShare)
