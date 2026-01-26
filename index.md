@@ -1,7 +1,7 @@
 
 # Aspiring Analyst | Passionate Problem Solver | Lifelong Learner
 
-Welcome to my e-portfolio! Experienced professional in Procurement and Account Management with a demonstrated history of working in the airlines/aviation industry. Skilled in Microsoft Office Suite, Management, and QuickBooks. Strong administrative professional with a Bachelor of Business Administration (B.B.A) in International Business from Seattle University. In addition, bring over 3 years of experience in banking as a Trade Finance Sales professional, specializing handling corporate clients and delivering tailored financial solutions.
+Welcome to my e-portfolio! Financial Analyst with 4+ years of experience in corporate banking, financial reporting, and data analysis. Proven ability to analyze financial performance, support budgeting and forecasting, and deliver actionable insights to management. Experienced working cross-functionally with operations, finance, product partners and client, with strong technical skills in Excel, QuickBooks, SQL, Python, Power BI, and data visualization. Currently pursuing an M.S. in Supply Chain Analytics with a strong focus on operational and financial optimization.
 
 ## 📌 Objective
 
@@ -9,31 +9,34 @@ To obtain a challenging analyst role where I can contribute to impactful project
 
 ### 💼 Work Experience
 
-### **Transaction Banking Corporate Sales** - *PermataBank Jakarta (part of Bangkok Bank Group)*
+### **TRANSACTION BANKING SALES (CORPORATE)** - *PermataBank Jakarta (part of Bangkok Bank Group)*
 *July 2021 - July 2025*
 
-- Procatively managed trade relationships within the porfolio of existing as well as new clients in order to develop suitable trade structures based on agreement.
-- Reviewed Letter of Credit, Bank Guarantee, Standby Letter of Credit, Demand Guarantee, etc.
-- Offered and advised clients regarding non-cash loan (pre-shipment and post-shipment financing) and trade finance products.
-- Gave cash management solutions to clients for better cashflow through our corporate online services (payables managemnet, receivebale management, information management, account services and liquidity management).
-- Initiated and liaised to create tailored cash management product.
-
-### **Procurement and Account Management** - *Onboard XP, LLC*
+- Analyzed corporate clients' financial data, cash flows, and trade finance transactions to support financing, liquiditym and cash management decisions
+- Prepared and reviewed financial reports to structured Trade Financing facilities such as Letters of Credit, Bank Guarantees, Standby Letter of Credit
+- Advised clients on financial structures to improve cash flow, working capital efficiency, and operational performance
+- Collaborated with internal finance, operations, and risk teams to assess financial exposure and compliance for loan approval
+- Interpreted financial and operational data to recommend tailored banking and cash management solutions
+  
+### **SUPPLY CHAIN ANALYST** - *Onboard XP, LLC*
 *November 2018 - July 2021* 
 
-- Analyzed sourcing, logistics, and transportation cost structures to initiate up-to-date supply chain strategies in various regions, negotiate the price with customers and suppliers based on the change of the required date, freight cost and warehouse locations.
-- Monitored and maintained safe inventory level and sales history for more accurate stock plan and ensure thata daily transactions of products can work smoothly.
-- Participated in internal product development to identify new product demands, schedules, and procurement needs; forecasts requirements and orders products to meet sales demands.
+- Analyzed sourcing, logistics, and transportation cost structures to identify cost-saving and efficiency opportunities
+- Supported operational planning by monitoring inventory levels, sales trends, and demand patterns
+- Assisted with forecasting inventory needs to ensure optimal stock levels and smooth daily operations
+- Created internal reports to support operational and financial decision-making
+- Coordinated shipment tracking and operational workflows using ERP systems
 
 ## 🎓 Education 
+
+### **Master of Science (M.S.) in Supply Chain Analytics (In Progress)**
+*California State University San Marcos | Aug 2025 - Aug 2026*
 
 ### **Bachelor of Business Administration (B.B.A) in International Business**
 *Seattle University | 2015 - 2017* 
 
 ### **Associate of Arts in Business**
 *North Seattle College | 2013 - 2015* 
-
-
 
 ## Projects
 [How I Created My E-Portfolio] (https://sulis002.github.io/subpage_1/)
